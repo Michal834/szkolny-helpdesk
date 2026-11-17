@@ -1,0 +1,20 @@
+# zależności i build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# sekrety — NIGDY w repozytorium
+.env
+.env.*
+!.env.example
+
+# PocketBase: dane lokalne (na produkcji siedzą w wolumenie Coolify)
+pocketbase/pb_data/
+pocketbase/pocketbase
+pocketbase/pocketbase.exe
+
+# systemowe
+.DS_Store
+npm-debug.log*
