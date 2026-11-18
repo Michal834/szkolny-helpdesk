@@ -5,8 +5,8 @@ rzutnik), technik widzi wszystkie zgłoszenia, zmienia ich status i komentuje.
 
 **Stack:** Next.js (App Router, TypeScript) · shadcn/ui + Tailwind · PocketBase · Coolify na VPS (OVH)
 
-- Aplikacja: `https://helpdesk.TWOJA-DOMENA.pl` <!-- uzupełnij -->
-- PocketBase: `https://pb.TWOJA-DOMENA.pl` <!-- uzupełnij -->
+- Aplikacja: `https://helpdesk.mchwesiuk.tech` 
+- PocketBase: `https://pb.mchwesiuk.tech` 
 
 ## Zrzuty ekranu
 
